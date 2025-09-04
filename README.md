@@ -1,7 +1,7 @@
 ![logo](https://github.com/user-attachments/assets/bd44647d-6df0-4f5a-b33f-6e3d895906ef)
 
 <h1 align="center">Hi 👋, I'm Vansh Tiwari</h1>
-<h3 align="center">Aspiring AI Engineer | Software Developer | Lifelong Learner</h3>
+<h3 align="center">Gen AI Engineer in the Making | Lifelong Learner</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
@@ -11,7 +11,7 @@
 
 ### 👨‍💻 About Me  
 - 🌱 Currently diving deeper into **Artificial Intelligence, Generative AI, and LangChain Ecosystem**  
-- 💻 Skilled in **Python, Java, Machine Learning, NLP, Deep Learning, GenAI, LangChain, LangGraph**  
+- 💻 Skilled in **Python, Java, Data Structures And Algorithms, Machine Learning, NLP, Deep Learning, GenAI, LangChain, LangGraph**  
 - 🎯 Goal: To build **real-world AI-powered applications** and grow as a professional AI Engineer  
 - 📫 Reach me at: **[LinkedIn](https://www.linkedin.com/in/vansh-tiwari-355036289)**  
 
