@@ -1,57 +1,106 @@
 # 👋 Hi, I'm Vansh Tiwari
 
-### AI & Automation Engineer | Machine Learning | MLOps | Cloud
+### AI & Automation Engineer | Machine Learning | LLMs | MLOps
 
-I’m a **B.Tech CSE (AI & ML)** student and an **AI & Automation Engineer**, interested in building practical AI systems that automate real-world business workflows.
+I'm a **B.Tech CSE (AI & ML)** student focused on building practical AI systems, automation workflows, and machine learning applications.
 
-* 🎓 B.Tech CSE (AI & ML) — JECRC University
-* 🤖 Interested in **AI Engineering, Machine Learning, Generative AI & AI Automation**
-* ⚙️ Building **AI agents, automation workflows, ML pipelines and backend systems**
-* ☁️ Working with **AWS, Docker, FastAPI, CI/CD and cloud deployment**
-* 🧠 Exploring **LLMs, RAG, LangChain, LangGraph and Agentic AI**
-* 🛒 Interested in **e-commerce automation, analytics and AI-powered business systems**
-* 🚀 Goal: Build scalable AI systems that solve real business problems
-
-📫 **Email:** [vanshtiwaripersonal2005@gmail.com](mailto:vanshtiwaripersonal2005@gmail.com)
+Currently working as an **AI & Automation Engineer at Ridhi Home & Living**, where I work on applying AI, automation, data, and software engineering to real-world business workflows.
 
 ---
 
-## 🏢 Experience
+## 👨‍💻 About Me
 
-### AI & Automation Engineer — Ridhi Home & Living
-
-**2026 – Present**
-
-Working on identifying and implementing opportunities for **AI and automation** across business operations.
-
-* 🤖 Exploring AI-powered automation for business workflows
-* 🛒 E-commerce automation across platforms such as Amazon, Shopify and Etsy
-* 📊 Data-driven analysis and reporting
-* 🔄 Workflow automation and internal tools
-* 🧠 Exploring LLM-based agents for business operations
-* ⚙️ Building systems that connect business data, automation and AI
-
-### Software Engineering Intern — Xebia
-
-**2026**
-
-* Backend development and configuration management
-* PostgreSQL and Redis
-* Node.js-based internal services
-* Feature flag and configuration management
-* Working with production-oriented software workflows
+* 🎓 B.Tech CSE — Artificial Intelligence & Machine Learning
+* 🤖 Interested in **AI Engineering, LLMs, AI Agents & Automation**
+* 🧠 Experience with **Machine Learning, NLP, Transformers and GPT models**
+* ⚙️ Building practical automation and AI-powered applications
+* ☁️ Familiar with **MLOps, Docker, AWS and CI/CD**
+* 🔬 Researching **Transformer architectures and positional encoding**
+* 🚀 Interested in building scalable AI systems for real-world problems
 
 ---
 
-## 🧠 What I Work With
+## 💼 Experience
+
+### AI & Automation Engineer
+
+**Ridhi Home & Living** · Sep 2026 – Present
+
+* Working on **AI and automation solutions** for business operations.
+* Exploring AI-driven automation for **e-commerce and internal workflows**.
+* Working with business data to identify opportunities for automation and optimization.
+* Exploring **LLM-based agents and intelligent workflows** for repetitive business processes.
+* Working on automation across areas such as **product listings, sales, inventory, advertising and reporting**.
+
+### Software / Backend Engineering Intern
+
+**Xebia** · Jun 2026 – Aug 2026
+
+* Worked on backend development and configuration management.
+* Developed a **feature configuration and feature-flag system**.
+* Worked with **Node.js, PostgreSQL and Redis**.
+* Implemented configuration-based control for application features.
+* Worked with production-oriented software development practices.
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 GPT-2 Fine-Tuning — AI/ML Application
+
+Fine-tuned **GPT-2** to build an AI/ML-focused application.
+
+* GPT-2 fine-tuning
+* Transformer-based language model
+* Custom training workflow
+* FastAPI inference backend
+* Dockerized application
+* Model deployment workflow
+
+**Tech:** `Python` `PyTorch` `Transformers` `GPT-2` `FastAPI` `Docker`
+
+---
+
+### 🚗 Vehicle Insurance Prediction — MLOps Pipeline
+
+End-to-end machine learning project focused on building a production-oriented **vehicle insurance prediction system**.
+
+* Complete ML training pipeline
+* Data ingestion and preprocessing
+* Model training and evaluation
+* Modular ML architecture
+* CI/CD integration
+* AWS-based deployment
+* Model prediction pipeline
+
+**Tech:** `Python` `Scikit-learn` `Pandas` `AWS` `Docker` `CI/CD`
+
+---
+
+### 🔬 Transformer Positional Encoding Research
+
+**How Do Positional Encodings Affect Transformer Training in Low-Resource Settings?**
+
+Research work investigating how different positional encoding approaches influence Transformer training when working with limited training data.
+
+* Transformer architecture analysis
+* Positional encoding techniques
+* Low-resource training experiments
+* Training behavior and performance analysis
+
+**Focus:** `Transformers` `Deep Learning` `NLP` `PyTorch`
+
+---
+
+## 🧠 Technical Skills
 
 ### AI & Machine Learning
 
-`Python` `Machine Learning` `Deep Learning` `NLP` `Transformers` `LLMs` `RAG` `Generative AI`
+`Machine Learning` `Deep Learning` `NLP` `Transformers` `LLMs` `GPT` `Fine-Tuning`
 
 ### AI Engineering
 
-`LangChain` `LangGraph` `AI Agents` `Prompt Engineering` `Model Integration`
+`Generative AI` `RAG` `AI Agents` `LangChain` `LangGraph` `Prompt Engineering`
 
 ### ML & Data
 
@@ -59,82 +108,71 @@ Working on identifying and implementing opportunities for **AI and automation** 
 
 ### Backend
 
-`FastAPI` `REST APIs` `Node.js` `PostgreSQL` `Redis`
+`Python` `FastAPI` `Node.js` `REST APIs` `PostgreSQL` `Redis`
 
-### Cloud & MLOps
+### MLOps & Cloud
 
 `AWS` `Docker` `CI/CD` `GitHub Actions` `ML Pipelines`
 
-### Development
+### Programming
 
-`Python` `Java` `SQL` `Git` `GitHub` `Linux`
-
----
-
-## 🚀 Featured Projects
-
-### 🤖 VanshGPT — LLM + RAG System
-
-A decoder-only Transformer language model built with PyTorch.
-
-* GPT-style Transformer architecture
-* Custom training pipeline
-* GPT-2 tokenizer
-* Fine-tuning / SFT workflow
-* RAG using **FAISS + Sentence Transformers**
-
-### 🧠 AI/ML Tutor — GPT-2 Fine-Tuning
-
-AI tutoring system built around a fine-tuned GPT-2 model.
-
-* GPT-2 fine-tuning
-* FastAPI inference backend
-* Dockerized deployment
-* AI/ML-focused responses
-
-### 📈 Sentiment-Driven Trading Signals
-
-Financial sentiment analysis system using **FinBERT**.
-
-* Financial news sentiment analysis
-* Transformer-based NLP
-* Trading signal generation
-* Streamlit dashboard
-
-### ⚙️ AutoDS-LLM
-
-Automated machine-learning backend for dataset analysis and model training.
-
-* FastAPI backend
-* Automated model training
-* Multiple ML algorithms
-* Model evaluation and selection
-* REST API-based workflow
-
-### 📄 Certificate Verification System
-
-AI-based certificate verification system developed for a Smart India Hackathon problem.
-
-* OCR
-* ResNet18
-* Anomaly detection
-* Fuzzy matching
-* Blockchain watermark verification
+`Python` `Java` `SQL` `Git` `GitHub`
 
 ---
 
-## 🛠️ Technologies
+## 📜 Certifications
+
+* NVIDIA DLI — Transformer-Based NLP
+* IBM — Machine Learning with Python
+* IBM — Test-Driven Development with Python
+
+---
+
+## 🏆 Achievements
+
+* 🥇 Top 10 — Smart India Hackathon 2025 Prelims
+* 🎓 Merit-Based Scholarship — JECRC University
+
+---
+
+## 🤝 Connect With Me
 
 <p align="left">
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<a href="https://linkedin.com/in/vansh-tiwari-355036289">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+<a href="https://github.com/Vanshtiwari15">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-FF4B4B?style=for-the-badg
+<a href="mailto:vanshtiwaripersonal2005@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=vanshtiwari15&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshtiwari15&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshtiwari15&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+### 📌 Currently Learning
+
+`LLM Agents` · `LangGraph` · `RAG Systems` · `MLOps` · `Cloud AI` · `Production AI Systems`
